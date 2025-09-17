@@ -159,7 +159,7 @@ Before starting this course, learners should have the following knowledge and sk
 
 #### Online Resources:  
 - Grafana Variables Guide: [https://grafana.com/docs/grafana/latest/variables/](https://grafana.com/docs/grafana/latest/variables/)  
-- Transformation Examples: [https://grafana.com/docs/grafana/latest/datasources/features/transformations/](https://grafana.com/docs/grafana/latest/datasources/features/transformations/)  
+- Transformation Examples: [https://volkovlabs.io/blog/transformations-grafana-20230519/](https://volkovlabs.io/blog/transformations-grafana-20230519/)  
 
 ---
 
@@ -180,7 +180,7 @@ Before starting this course, learners should have the following knowledge and sk
 
 #### Online Resources:  
 - Alerting Guide: [https://grafana.com/docs/grafana/latest/alerting/](https://grafana.com/docs/grafana/latest/alerting/)  
-- Slack Integration Guide: [https://slack.com/help/articles/218688467-Connect-tools-to-Slack](https://slack.com/help/articles/218688467-Connect-tools-to-Slack)  
+- Grafana Alerting: Advanced Alerting Configurations & Best Practices: [https://drdroid.io/engineering-tools/grafana-alerting-advanced-alerting-configurations-best-practices](https://drdroid.io/engineering-tools/grafana-alerting-advanced-alerting-configurations-best-practices)  
 
 ---
 
@@ -222,7 +222,7 @@ Before starting this course, learners should have the following knowledge and sk
 
 #### Online Resources:  
 - User Management Guide: [https://grafana.com/docs/grafana/latest/administration/](https://grafana.com/docs/grafana/latest/administration/)  
-- Authentication Options Overview: [https://grafana.com/docs/grafana/latest/authentication/](https://grafana.com/docs/grafana/latest/authentication/)  
+- Configure authentication: [https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-authentication/](https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-authentication/)  
 
 ---
 
@@ -242,8 +242,8 @@ Before starting this course, learners should have the following knowledge and sk
 2. How can Grafana be scaled for large deployments?  
 
 #### Online Resources:  
-- Performance Tuning Guide: [https://grafana.com/docs/grafana/latest/administration/performance-tuning/](https://grafana.com/docs/grafana/latest/administration/performance-tuning/)  
-- Scaling Grafana: [https://www.metricfire.com/blog/scaling-grafana/](https://www.metricfire.com/blog/scaling-grafana/)  
+- Optimizing Grafana Dashboards for Performance and Speed: [https://binaryscripts.com/grafana/2025/04/18/optimizing-grafana-dashboards-for-performance-reducing-latency-and-improving-load-times.html](https://binaryscripts.com/grafana/2025/04/18/optimizing-grafana-dashboards-for-performance-reducing-latency-and-improving-load-times.html)  
+- Scaling Grafana: [https://www.unrepo.com/grafana/scaling-grafana-for-high-availability-and-performance](https://www.unrepo.com/grafana/scaling-grafana-for-high-availability-and-performance)  
 
 ---
 
