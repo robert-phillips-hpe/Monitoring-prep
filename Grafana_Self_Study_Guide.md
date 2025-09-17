@@ -60,7 +60,7 @@ Before starting this course, learners should have the following knowledge and sk
 
 1. **Basic understanding of data visualization concepts**  
    - Familiarity with data visualization tools such as Tableau or Power BI is helpful but not mandatory.
-   - Online resource: [Data Visualization Beginner’s Guide](https://data.library.virginia.edu/data-visualization/)  
+   - Online resource: [What is Data Visualization](https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists)  
 
 2. **Basic knowledge of databases and querying**  
    - Understanding of SQL and database management systems such as MySQL or PostgreSQL.
@@ -95,7 +95,7 @@ Before starting this course, learners should have the following knowledge and sk
 
 #### Online Resources:  
 - Grafana Official Documentation: [https://grafana.com/docs/grafana/latest/](https://grafana.com/docs/grafana/latest/)  
-- Installing Grafana via Docker: [https://phoenixnap.com/kb/docker-grafana](https://phoenixnap.com/kb/docker-grafana)  
+- Installing Grafana via Docker: [https://signoz.io/guides/how-to-install-prometheus-and-grafana-on-docker/](https://signoz.io/guides/how-to-install-prometheus-and-grafana-on-docker/)  
 
 ---
 
@@ -116,7 +116,7 @@ Before starting this course, learners should have the following knowledge and sk
 2. How can you organize dashboards for better readability?  
 
 #### Online Resources:  
-- Grafana Dashboards Guide: [https://www.metricfire.com/blog/how-to-create-grafana-dashboards/](https://www.metricfire.com/blog/how-to-create-grafana-dashboards/)  
+- Grafana Dashboards Guide: [(https://grafana.com/docs/grafana/latest/getting-started/build-first-dashboard/)](https://grafana.com/docs/grafana/latest/getting-started/build-first-dashboard/) 
 - Panel Configuration Overview: [https://grafana.com/docs/grafana/latest/panels/](https://grafana.com/docs/grafana/latest/panels/)  
 
 ---
