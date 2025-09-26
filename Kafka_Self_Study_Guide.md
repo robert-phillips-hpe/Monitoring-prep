@@ -53,11 +53,11 @@ To get the most out of this course, you should have the following prerequisites:
 
 2. **Understanding of Distributed Systems**  
    - Basic knowledge of distributed systems concepts (e.g., nodes, clusters, replication).  
-     *Source: [Distributed Systems Primer](https://www.educative.io/courses/distributed-systems-fundamentals)*  
+     *Source: [Fundamentals of Distributed Systems](https://www.baeldung.com/cs/distributed-systems-guide)*  
 
 3. **Basic Networking Knowledge**  
    - Understanding of TCP/IP, ports, and network protocols.  
-     *Source: [Networking Basics](https://www.cloudflare.com/learning/network-layer/what-is-tcp-ip/)*  
+     *Source: [Linux Networking Tutorials](https://www.baeldung.com/linux/networking-series)*  
 
 4. **Experience with Linux Command Line**  
    - Ability to navigate and execute commands in a Linux terminal.  
@@ -65,7 +65,7 @@ To get the most out of this course, you should have the following prerequisites:
 
 5. **Knowledge of Databases**  
    - Familiarity with relational and non-relational databases.  
-     *Source: [Database Basics](https://www.codecademy.com/learn/learn-sql)*  
+     *Source: [Basic Database Concepts](https://www.geeksforgeeks.org/computer-science-fundamentals/basic-database-concepts/)*  
 
 ---
 
@@ -85,7 +85,7 @@ To get the most out of this course, you should have the following prerequisites:
 **Resources:**  
 - [Apache Kafka Official Documentation](https://kafka.apache.org/documentation/)  
 - [Confluent’s Kafka Overview](https://www.confluent.io/what-is-apache-kafka/)  
-- [Kafka Use Cases](https://dzone.com/articles/real-world-use-cases-for-apache-kafka)  
+- [Top 10 Kafka Use Cases](https://blog.algomaster.io/p/top-10-kafka-use-cases)  
 
 ---
 
@@ -101,8 +101,8 @@ To get the most out of this course, you should have the following prerequisites:
 2. Explain the role of consumer groups in load balancing and fault tolerance.  
 
 **Resources:**  
-- [Kafka Internals](https://medium.com/@kristijan.kraljic/apache-kafka-internals-architecture-overview-6f8171d8baca)  
-- [Kafka Architecture Explained](https://www.cloudkarafka.com/blog/part1-kafka-for-beginners.html)  
+- [Kafka Architecture](https://www.geeksforgeeks.org/apache-kafka/kafka-architecture/)  
+- [Intro to Apache Kafka: Tutorials, Explainer Videos & More](https://developer.confluent.io/what-is-apache-kafka/)  
 
 ---
 
@@ -136,7 +136,7 @@ To get the most out of this course, you should have the following prerequisites:
 **Resources:**  
 - [Kafka Producer API Documentation](https://kafka.apache.org/documentation/#producerapi)  
 - [Kafka Consumer API Documentation](https://kafka.apache.org/documentation/#consumerapi)  
-- [Serialization Guide](https://www.baeldung.com/kafka-serialization)  
+- [Apache Kafka Serializer and Deserializer](https://www.geeksforgeeks.org/java/apache-kafka-serializer-and-deserializer/)  
 
 ---
 
@@ -184,8 +184,8 @@ To get the most out of this course, you should have the following prerequisites:
 2. Design a partitioning strategy for a hypothetical use case.  
 
 **Resources:**  
-- [Kafka Partitioning](https://www.confluent.io/blog/apache-kafka-partitioning-what-you-need-to-know/)  
-- [Kafka Security Guide](https://medium.com/@saurabhkumar_92978/apache-kafka-security-setup-ssl-sasl-and-acl-2e8dc5f2a8a1)  
+- [Understanding Kafka Topics and Partitions](https://www.baeldung.com/kafka-topics-partitions)  
+- [Kafka Security Guide](https://medium.com/@bhattchitrangna/securing-your-kafka-a-beginners-guide-to-kafka-security-ab2978a4d82e)  
 
 ---
 
@@ -199,8 +199,8 @@ To get the most out of this course, you should have the following prerequisites:
 2. Integrate Kafka with a database for data ingestion and querying.  
 
 **Resources:**  
-- [Kafka Real-World Examples](https://www.confluent.io/blog/real-time-data-pipelines-apache-kafka/)  
-- [Streaming Analytics with Kafka](https://www.kai-waehner.de/blog/2018/05/09/apache-kafka-real-time-streaming-analytics/)
+- [Kafka Real-World Examples](https://dzone.com/articles/real-world-examples-and-use-cases-for-apache-kafka)  
+- [Real-Time Data Streams: Building Analytics with Kafka and Spark](https://www.javacodegeeks.com/2025/09/real-time-data-streams-building-analytics-with-kafka-and-spark.html)
 
 ---
 
