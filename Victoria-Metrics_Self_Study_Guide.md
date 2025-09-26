@@ -52,7 +52,7 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
 ### Prerequisites
 1. **Basic understanding of time-series data**  
    Time-series data is a sequence of data points indexed in time order. Familiarity with concepts like timestamps and trends is essential.  
-   **Resource:** [Understanding Time-Series Data](https://www.dataversity.net/introduction-to-time-series-data/)  
+   **Resource:** [What is Time Series Data?](https://estuary.dev/blog/time-series-data-complete-guide/)  
 
 2. **Knowledge of Linux or Unix systems**  
    Since Victoria Metrics is often deployed on Linux-based systems, familiarity with basic Linux commands and shell scripting is important.  
@@ -78,7 +78,7 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
   - What are the advantages of using Victoria Metrics over other options?  
 - **Resources:**  
   - [Victoria Metrics Documentation](https://docs.victoriametrics.com/)  
-  - [Time-Series Database Explanation](https://www.dataversity.net/introduction-to-time-series-data/)  
+  - [What Is a Time Series Database?]([https://www.dataversity.net/introduction-to-time-series-data/](https://medium.com/@sumitsakpal02/what-is-a-time-series-database-explained-with-real-world-examples-27-29015b1632a1))  
 
 ---
 
@@ -90,7 +90,7 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
   - How do you verify that Victoria Metrics is running properly?  
 - **Resources:**  
   - [Victoria Metrics Installation Guide](https://docs.victoriametrics.com/#installation)  
-  - [Linux Basics for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)  
+  - [Install and Use VictoriaMetrics time-series database on Ubuntu](https://computingforgeeks.com/install-use-victoriametrics-time-series-database-on-ubuntu/)  
 
 ---
 
@@ -114,7 +114,7 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
   - How does Victoria Metrics handle large-scale deployments?  
 - **Resources:**  
   - [Scaling Victoria Metrics](https://docs.victoriametrics.com/#scalability)  
-  - [Database Scaling Basics](https://www.digitalocean.com/community/tutorials/understanding-scalability-and-performance-in-database-design)  
+  - [Building a Scalable Database](https://www.geeksforgeeks.org/dbms/building-a-scalable-database/)  
 
 ---
 
@@ -125,8 +125,8 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
   - How can Grafana be used with Victoria Metrics?  
   - What are the steps for setting up alerts?  
 - **Resources:**  
-  - [Grafana Integration Guide](https://grafana.com/docs/grafana/latest/datasources/victoriametrics/)  
-  - [Monitoring Basics](https://www.redhat.com/en/topics/monitoring)  
+  - [Grafana Integration Guide](https://docs.victoriametrics.com/victoriametrics/integrations/grafana/)  
+  - [Monitoring HPC system health with Grafana and Psychart](https://grafana.com/blog/2022/10/14/how-to-monitor-high-performance-computing-system-health-with-grafana-and-psychrometric-charts/)  
 
 ---
 
@@ -137,8 +137,8 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
   - How do retention policies affect storage in Victoria Metrics?  
   - What is data downsampling, and why is it useful?  
 - **Resources:**  
-  - [Retention Policies in Victoria Metrics](https://docs.victoriametrics.com/#retention)  
-  - [Data Downsampling Explained](https://www.timescale.com/blog/data-downsampling/)  
+  - [Retention Policies in Victoria Metrics](https://docs.victoriametrics.com/victoriametrics/#retention)  
+  - [Downsampling a time series data stream](https://www.elastic.co/docs/manage-data/data-store/data-streams/downsampling-time-series-data-stream)  
 
 ---
 
@@ -149,8 +149,8 @@ Welcome to the Victoria Metrics Technical Training Course! This self-study curri
   - What tools can be used to debug Victoria Metrics issues?  
   - What are common errors you may encounter, and how can they be resolved?  
 - **Resources:**  
-  - [Troubleshooting Victoria Metrics](https://docs.victoriametrics.com/#troubleshooting)  
-  - [Linux Diagnostic Tools](https://opensource.com/article/18/7/top-linux-troubleshooting-tools)  
+  - [Troubleshooting Victoria Metrics](https://docs.victoriametrics.com/victoriametrics/#troubleshooting)  
+  - [What Are the Best Tools for Troubleshooting Linux Performance?](https://www.devopstraininginstitute.com/blog/what-are-the-best-tools-for-troubleshooting-linux-performance)  
 
 ---
 
